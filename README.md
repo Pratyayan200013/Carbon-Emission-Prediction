@@ -1,7 +1,7 @@
 # CO2-emission-prediction-using-Linear Regression and Decision Tree Regression-models
 ![image](https://user-images.githubusercontent.com/64662708/227807371-94ace33f-ffc0-4663-aac6-70738e1d055d.png)
 
-Experimenting with two differnt regression models, we try to arrive at the most accurate prediction of the CO2 emission of a new car model. Following are the regression models we experiment with:-
+Experimenting with two differnt regression models, we try to arrive at the most accurate prediction of CO2 emissions for India, China and Asia. Following are the regression models we experiment with:-
 
 • In the regression model for each of the dependent variables, 4 independent variables are being considered which are Country, Year, Population and GDP. 
 
